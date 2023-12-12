@@ -2,6 +2,11 @@
 
 Welcome to the Retail Data Pipeline Project! This project is designed to help you learn the ins and outs of creating a robust data pipeline for retail analytics using Apache Airflow. By the end of this project, you will have hands-on experience in setting up and managing a data pipeline, handling data quality checks, integrating dbt for modeling, and leveraging cloud services like Google Cloud Storage and BigQuery.
 
+
+# DATA-PIPELINE DASHBOARD
+![Data Model](https://raw.githubusercontent.com/OGsiji/airflow-tutorial/main/images/Screen%20Shot%202023-12-13%20at%2012.39.21%20AM.png)
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -66,6 +71,7 @@ Understand the process of uploading a CSV file into Google Cloud Storage. Utiliz
 ## Ingesting Data into a BigQuery Table using the Astro SDK
 
 Explore the Astro SDK to ingest data into a BigQuery table. Leverage the power of BigQuery for efficient data warehousing and analytics.
+
 
 
 # METABASE DASHBOARD

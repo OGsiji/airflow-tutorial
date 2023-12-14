@@ -2,6 +2,9 @@
 
 Welcome to the Retail Data Pipeline Project! This project is designed to help you learn the ins and outs of creating a robust data pipeline for retail analytics using Apache Airflow. By the end of this project, you will have hands-on experience in setting up and managing a data pipeline, handling data quality checks, integrating dbt for modeling, and leveraging cloud services like Google Cloud Storage and BigQuery.
 
+Tutorial
+https://www.youtube.com/watch?v=DzxtCxi4YaA
+
 
 # DATA-PIPELINE DASHBOARD
 ![Data Model](https://raw.githubusercontent.com/OGsiji/airflow-tutorial/main/images/Screen%20Shot%202023-12-13%20at%2012.39.21%20AM.png)
